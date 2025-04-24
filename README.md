@@ -1,7 +1,7 @@
 # GoF-reproducibility
 
 
-Replication
+Replication instructions
 
 Table 1: Run Table1seeded.m to reproduce Table 1 exactly. Takes approximately 15 minutes on a AMD Ryzen 7 5800H 8-core CPU.
 
